@@ -1,4 +1,4 @@
-## :bulb: the 24-node virtual power grid
+## :bulb: The 24-node virtual power grid
 The parameters and diagram of the virtual 110 kV high voltage distribution network are created for South King County for planning purposes of electric buses.
 
 ## :smiley: Citing 
